@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Check Website Connectivity
 
 This directory contains a simple tool to check connectivity to a number of web sites.
@@ -37,3 +38,6 @@ the one which contains the input file.)
 The CSV should perhaps contain a date stamp, too.
 
 Perhaps add the `logging` library and optionally print progress information.
+=======
+# Check_website_connectivity
+>>>>>>> 1272031f2cd4858869a1fe260b1020108226f81f
